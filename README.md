@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Jha</h1>
+<h1 align="center">Hi, I'm Sudhanshu Jha</h1>
 <h3 align="center">IT Graduate | Backend Developer | Java & Spring Boot Enthusiast</h3>
 
 
